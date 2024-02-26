@@ -119,9 +119,6 @@ Switching on camera from habitat with rabbits...
 (" ~----( ~   Y.  )
 It seems there will be more rabbits soon!"""
 
-
-animals = [camel, lion, deer, goose, bat, rabbit]
-
 while True:
     habitat = input('Which habitat # do you need?')
     if habitat == '0':
